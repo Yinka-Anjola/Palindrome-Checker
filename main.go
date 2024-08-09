@@ -16,9 +16,9 @@ func main() {
 	}
 
 	if checkIsPalindrome(input) {
-		fmt.Println("The word provided is a palindrome: ")
+		fmt.Println("The word provided is a palindrome")
 	} else {
-		fmt.Println("The word provided is not a palindrome: ")
+		fmt.Println("The word provided is not a palindrome")
 	}
 }
 
